@@ -1,0 +1,23 @@
+# Vim swap file.
+*.swp
+
+# python cache files
+__pycache__/
+
+# pyenv python local version file
+.python-version
+
+# Vs Code config file
+.vscode/
+
+# Wave files
+wave/
+
+# Pyinstaller build files
+build/
+dist/
+
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
